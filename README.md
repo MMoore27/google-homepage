@@ -1,2 +1,4 @@
 # google-homepage
-My first repository on Github
+My first project on Github
+
+Project Instructions: http://www.theodinproject.com/web-development-101/html-css?ref=lnav
